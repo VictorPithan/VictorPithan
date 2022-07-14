@@ -21,3 +21,6 @@
   
 ##
   
+<div>
+  ![Snake animation](https://github.com/VictorPithan/VictorPithan/blob/output/github-contribution-grid-snake.svg)  
+</div>
